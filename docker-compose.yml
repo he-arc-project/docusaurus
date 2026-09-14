@@ -1,0 +1,14 @@
+name: docusaurus_he_arc
+
+services:
+  blog:
+    build: .
+    ports:
+      - 3000:3000
+    user: 1000:1000
+    volumes:
+      - ./blog:/app/blog
+      - ./docs:/app/docs
+      - ./src/pages:/app/src/pages
+      - ./docusaurus.config.js:/app/docusaurus.config.js
+      - ./sidebar.js:/app/sidebars.js
