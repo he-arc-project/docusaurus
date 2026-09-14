@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://he-arc-project.github.io/docusaurus/blog</id>
+    <title>Mes Notes HE-Arc Blog</title>
+    <updated>1970-01-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://he-arc-project.github.io/docusaurus/blog"/>
+    <subtitle>Mes Notes HE-Arc Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://he-arc-project.github.io/docusaurus/blog/tes</id>
+        <link href="https://he-arc-project.github.io/docusaurus/blog/tes"/>
+        <updated>1970-01-01T00:00:00.000Z</updated>
+    </entry>
+</feed>

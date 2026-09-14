@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkapp||=[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Test","permalink":"/docusaurus/blog/tes","unlisted":false,"date":"1970-01-01T00:00:00.000Z"}]}')}}]);

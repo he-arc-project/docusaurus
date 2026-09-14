@@ -1,7 +1,7 @@
 name: docusaurus_he_arc
 
 services:
-  blog:
+  docusaurus:
     build: .
     ports:
       - 3000:3000

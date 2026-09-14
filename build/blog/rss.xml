@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>Mes Notes HE-Arc Blog</title>
+        <link>https://he-arc-project.github.io/docusaurus/blog</link>
+        <description>Mes Notes HE-Arc Blog</description>
+        <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <link>https://he-arc-project.github.io/docusaurus/blog/tes</link>
+            <guid>https://he-arc-project.github.io/docusaurus/blog/tes</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
